@@ -4,7 +4,7 @@
 
 An idea of the project is to built Speech Command Recognition system that is capable for audio recognition words.
 
-## Autors
+## :mortar_board: Autors
 - [Milica Galjak, 1071/2020](https://github.com/milicagaljak)
 - [Djordje Jovanovic, 1030/2020](https://github.com/DJ-J)
 
