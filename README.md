@@ -4,9 +4,13 @@
 
 An idea of the project is to built Speech Command Recognition system that is capable for audio recognition words.
 
-## :mortar_board: Autors
+## :mortar_board: Autor
 - [Milica Galjak, 1071/2020](https://github.com/milicagaljak)
-- [Djordje Jovanovic, 1030/2020](https://github.com/DJ-J)
+
+## Run project
+
+This project works in Google Colab. It contains all necessary libraries and packages.
+
 
 ## Data
 Dataset used in this project was downloaded from
@@ -21,6 +25,10 @@ This is version 0.01 of the data set containing 64,727 audio files.
 [**"Speech Command Recognition with Convolutional
 Neural Network"**][2], *Xuejiao Li, Zixuan Zhou*
 
+[**Official website: https://www.tensorflow.org**][3]
+
 [1]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43969.pdf
 
 [2]: http://cs229.stanford.edu/proj2017/final-reports/5244201.pdf
+
+[3]: https://www.tensorflow.org
